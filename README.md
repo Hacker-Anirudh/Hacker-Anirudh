@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on custom ROMs
 - 📫 How to reach me ...
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: (none)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hacker-Anirudh)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact: certified idiot
 
 <!---
 Hacker-Anirudh/Hacker-Anirudh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
